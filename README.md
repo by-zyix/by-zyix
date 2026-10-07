@@ -1,28 +1,38 @@
-# Hi, I’m by-zyix
+# by-zyix
 
-**Cybersecurity student · Web application security · Secure development**
+### Cybersecurity student · Aspiring network security professional
 
-I’m a second-year cybersecurity student learning how to build web applications and understand the security decisions behind them. I use hands-on projects to turn what I learn into practical improvements.
+I’m a second-year cybersecurity student with a clear career goal: working on the networks and infrastructure behind organizations, helping keep their systems connected, resilient and secure.
 
-## What I’m working on
+My direction is **network security** — understanding how enterprise networks operate, how threats move through them and how effective defenses are designed.
 
-**AVSR** — a commerce storefront and administration panel built with React and Express, with Shopify handling checkout. The source repository is private while the project is in development.
+---
 
-My current work includes responsive interfaces, input validation, authentication, safe image handling and documenting unresolved issues.
+## Where I’m heading
 
-## Learning focus
+**Networking foundations → Network defense → Enterprise infrastructure security**
 
-- Web application security and common vulnerability patterns
-- Authentication, authorization and session handling
-- Secure development practices and dependency maintenance
-- Clear documentation and reproducible testing
+I want to build a strong foundation before specializing. My learning roadmap includes:
 
-## Tools in my current project
+| Area | Focus |
+| --- | --- |
+| Network fundamentals | TCP/IP, subnetting, routing, switching and DNS |
+| Access and segmentation | VLANs, firewalls, access control and VPNs |
+| Visibility and detection | Packet analysis, network monitoring and log investigation |
+| Systems | Linux and Windows administration fundamentals |
+| Defensive practice | Hardening, incident investigation and documenting findings |
 
-JavaScript · React · Node.js · Express · SQL · Git
+These are my learning priorities, not a list of certifications or professional experience.
 
-## How I work
+## My approach
 
-Build a small change, understand its impact, validate it and document what remains. I practice security testing only in environments I own or have permission to assess.
+- Understand how a system works before trying to secure it.
+- Practice in personal labs and explicitly authorized environments.
+- Keep notes, make findings reproducible and validate changes.
+- Use development projects to understand how applications interact with infrastructure.
 
-This profile reflects my learning journey; more projects and notes will follow.
+## On this GitHub
+
+A place for my projects and, as I develop them, lab notes, network exercises and small tools that support my cybersecurity learning.
+
+**Long-term goal:** contribute to a team securing enterprise networks and the infrastructure people rely on every day.
