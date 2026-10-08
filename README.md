@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3500&amp;pause=2500&amp;color=58A6FF&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=70&amp;lines=Cybersecurity+student;Learning+to+secure+networks" alt="Cybersecurity student — Learning to secure networks" />
 </p>
 <p align="center">
-  <a href="https://github.com/by-zyix"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/by-zyix"><img src="social-github.svg" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/enes-efe-i%C5%9F%C4%B1k-48872625a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/enes-efe-i%C5%9F%C4%B1k-48872625a/"><img src="social-linkedin.svg" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/enes_fee"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/enes_fee"><img src="social-instagram.svg" alt="Instagram" /></a>
 </p>
 
 
